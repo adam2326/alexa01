@@ -1,0 +1,7 @@
+indexes:
+- kind: sas_commands
+  ancestor: no
+  properties:
+  - name: action
+  - name: summary_var
+  - name: category_grouper
